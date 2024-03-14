@@ -1,11 +1,11 @@
 {
-    "name": "beyondcode/laravel-websockets",
+    "name": "streamingsystems/web-sockets",
     "description": "An easy to use WebSocket server",
     "keywords": [
-        "beyondcode",
-        "laravel-websockets"
+        "streamingsystems",
+        "web-sockets"
     ],
-    "homepage": "https://github.com/beyondcode/laravel-websockets",
+    "homepage": "https://github.com/streamingsystems/web-sockets",
     "license": "MIT",
     "repositories": [
         {
